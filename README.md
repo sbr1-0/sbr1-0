@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**sb-1-coder/sb-1-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello!
 
-Here are some ideas to get you started:
+My name is Suny, a Data Science student based in the Dominican Republic. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧹 I like to clean, analize and visualize raw data to turn it into strategical information for decision making. 
+
+📒 I'm currently learning how to use Jupyter Notebooks, Pandas, Power Bi, Python, and trying to improve my Excel skills. I love doing projects based in real life scenarios. 
+
+Fun facts: 
+
+- I speak three languages (spanish, english and portuguese)🉐.
+- I love coffee ☕.
+- Hobbies: watch korean dramas🍿.
