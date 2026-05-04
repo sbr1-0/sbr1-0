@@ -2,7 +2,7 @@
 
 Hello!
 
-My name is Suny, a Data Science student based in the Dominican Republic. 
+My name is Suny, a Data Science student. 
 
 🧹 I like to clean, analize and visualize raw data to turn it into strategical information for decision making. 
 
