@@ -1,6 +1,6 @@
-## Hi there 👋
+## Intro
 
-Hello!
+Hello! 👋
 
 My name is Suny, a Data Science student. 
 
